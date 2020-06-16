@@ -4,9 +4,9 @@
 board = [" "," "," "," ","  "," "," "," "," "]
 
 def display_board(board)
-  rowOne =  puts "   |   |   "
-  rowTwo =  puts "-----------"
-  rowThree = puts "   |   |   "
-  rowFour = puts "-----------"
-  rowFive = puts "   |   |   "
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
